@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+this is a gem that is used for copyrights generation for my applications
 
 ## Development
 
