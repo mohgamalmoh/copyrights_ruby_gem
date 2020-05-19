@@ -23,7 +23,11 @@ Or install it yourself as:
 ## Usage
 
 this is a gem that is used for copyrights generation for my applications
+it could be used as following:
+```ruby
+JimmiViewTool::Renderer.copyright 'john doe', 'all rights reserved'
 
+```
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
